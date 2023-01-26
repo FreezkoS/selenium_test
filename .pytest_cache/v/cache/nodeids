@@ -1,0 +1,5 @@
+[
+  "tests.py::test_images",
+  "tests.py::test_tensor_site",
+  "tests.py::test_yandex_search"
+]

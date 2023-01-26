@@ -1,0 +1,17 @@
+chromedriver.exe
+.idea/.gitignore
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/selenium_test2.iml
+.idea/vcs.xml
+.pytest_cache/.gitignore
+.pytest_cache/CACHEDIR.TAG
+.pytest_cache/README.md
+.pytest_cache/v/cache/lastfailed
+.pytest_cache/v/cache/nodeids
+.pytest_cache/v/cache/stepwise
+__pycache__/BaseApp.cpython-39.pyc
+__pycache__/YandexPages.cpython-39.pyc
+__pycache__/conftest.cpython-39-pytest-7.2.1.pyc
+__pycache__/tests.cpython-39-pytest-7.2.1.pyc
